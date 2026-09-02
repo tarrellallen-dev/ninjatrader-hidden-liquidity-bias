@@ -1,0 +1,17 @@
+# NinjaTrader build output
+bin/
+obj/
+*.dll
+*.pdb
+*.suo
+*.user
+
+# NinjaTrader local state
+*.ninjascript
+db/
+log/
+trace/
+
+# OS
+Thumbs.db
+.DS_Store
