@@ -66,7 +66,7 @@ namespace NinjaTrader.NinjaScript.Indicators
             if (State == State.SetDefaults)
             {
                 Description              = "Context-aware hidden liquidity oscillator. Interprets blocks and icebergs through location in range + price response.";
-                Name                     = "Hidden Liquidity Bias";
+                Name                     = "Obsidian Flow Hidden Liquidity Bias";
                 Calculate                = Calculate.OnBarClose;
                 IsOverlay                = false;
                 DrawOnPricePanel         = false;
